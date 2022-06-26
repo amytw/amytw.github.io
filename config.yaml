@@ -1,4 +1,4 @@
-baseurl: https://amytw.github.io
+baseurl: https://amytw.github.io/
 languageCode: en-us
 theme: stack
 paginate: 5
@@ -37,7 +37,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: "img/favicon.ico"
 
     footer:
         since: 2022
